@@ -1,1 +1,2 @@
-PDFConvert.pyw linguist-language=Python
+*.pyw linguist-language=Python
+bin/* linguist-vendored
