@@ -1,0 +1,2 @@
+*.pyw linguist-language=Python
+bin/* linguist-vendored
