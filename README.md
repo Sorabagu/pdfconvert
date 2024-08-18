@@ -2,7 +2,7 @@
 <h2>Français</h2>
 <ul>
 <li><h3>Description</h3>
-PDFConvert est un script Python développé par Soradev qui permet de convertir des fichiers HTML en PDF. Il utilise l'exécutable wkhtmltopdf pour effectuer la conversion tout en gérant les erreurs courantes qui pourraient survenir pendant le processus.
+PDFConvert est un script Python développé par Soradev qui permet de convertir des fichiers EML (ou HTML) en PDF. Il utilise l'exécutable wkhtmltopdf pour effectuer la conversion tout en gérant les erreurs courantes qui pourraient survenir pendant le processus.
 <br></li>
 <li><h3>Fonctionnalités</h3>
 <ul>
