@@ -15,7 +15,6 @@ import re
 import shutil
 from subprocess import Popen, PIPE
 
-# Mettre à jour le chemin pour le binaire wkhtmltopdf dans resource/bin/wkhtmltox
 WKHTMLTOPDF_EXECUTABLE = os.path.join(os.path.dirname(__file__), 'wkhtmltox', 'bin', 'wkhtmltopdf.exe')
 
 WKHTMLTOPDF_ERRORS_IGNORE = frozenset([
